@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "vX35rymwD7DVSv06IA8fHkrEmJG7qKnXmn8mo0JZzVk=",
+  "Source": "HealthCheck.Server",
+  "BasePath": "_content/HealthCheck.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/cherrie/RiderProjects/HealthCheck/healthcheck.client/healthcheck.client.esproj",
+      "Version": 2,
+      "Source": "healthcheck.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

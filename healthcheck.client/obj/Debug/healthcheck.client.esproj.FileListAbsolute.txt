@@ -1,0 +1,1 @@
+/Users/cherrie/RiderProjects/HealthCheck/healthcheck.client/obj/Debug/healthcheck.client.esproj.CoreCompileInputs.cache
